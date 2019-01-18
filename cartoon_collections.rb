@@ -16,8 +16,8 @@ end
 def find_the_cheese(array)
   cheeses = ["cheddar", "gouda","provolone"]
   return array & cheeses
-end.flatten
-
+end
+end
   
 
   
